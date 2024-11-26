@@ -1,3 +1,9 @@
+A check si besoin
+https://hub.docker.com/_/odoo  
+https://www.reddit.com/r/Odoo/comments/1g2txzf/how_do_i_start_with_odoo/  
+https://www.udemy.com/course/odoo-17-technical-course/?couponCode=BFCMSALE24FRTR
+
+
 # Odoo Development Cookbook
 
 <a href="https://www.packtpub.com/product/odoo-development-cookbook-fifth-edition/9781805124276?utm_source=github&utm_medium=repository&utm_campaign=9781805124276"><img src="https://m.media-amazon.com/images/I/71tqBvTp1ML._SL1500_.jpg" alt="Odoo Development Cookbook" height="256px" align="right"></a>
