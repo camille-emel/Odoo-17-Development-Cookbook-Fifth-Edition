@@ -10,7 +10,7 @@ https://www.udemy.com/course/odoo-17-technical-course/?couponCode=BFCMSALE24FRTR
 # VERIF DATE  
 https://www.cybrosys.com/odoo-book/odoo-book-by-cybrosys-technologies.pdf
 
-
+------------------------------------------------------------------------------------------------------------------
 
 
 
