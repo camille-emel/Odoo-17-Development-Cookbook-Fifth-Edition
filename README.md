@@ -1,3 +1,6 @@
+# PREFACE DU LIVRE -   
+https://books.google.fr/books?id=264FEQAAQBAJ&pg=PR7&hl=fr&source=gbs_selected_pages&cad=1#v=onepage&q&f=false
+
 A check si besoin
 https://hub.docker.com/_/odoo  
 https://www.reddit.com/r/Odoo/comments/1g2txzf/how_do_i_start_with_odoo/  
